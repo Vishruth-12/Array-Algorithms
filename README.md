@@ -6,4 +6,4 @@ Classic C++ array techniques, stored in `arrays/`.
 - `arrays/two_sum.cpp`
 - `arrays/rotate_array.cpp`
 
-Prepared on 2026-10-21.
+Prepared on 2026-10-16.
